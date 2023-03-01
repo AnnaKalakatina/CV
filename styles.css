@@ -1,0 +1,31 @@
+body{
+    background-color: lightyellow;
+    color: #0f141e;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.фото2{
+    width: 200px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.40);
+}
+.info p{
+    color: rgb(94, 87, 132);
+    margin: 0;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: none;
+}
+.container{
+    max-width: 800px;
+    margin: auto;
+
+}
+.social {
+background: rgb(105, 183, 255);
+padding: 10px 30px;
+border: 20px rgb(9, 9, 69);
+margin: 10px 10px;
+}
